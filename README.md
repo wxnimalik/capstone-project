@@ -7,7 +7,9 @@ and meetings, ensuring efficiency, organization, and improved collaboration amon
 2. Objectives:
 
 2.1 To create a user-friendly interface that allows event coordinators, administrators, and participants to navigate the system and manage events easily.
+
 2.2 To provide functionalities for scheduling events, tracking attendance, managing resources, and communicating with participants.
+
 2.3 To implement features for real-time updates on event statuses, ensuring that users have access to the latest information regarding upcoming events and meetings.
 
 3. Key Features:
